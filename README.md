@@ -78,8 +78,7 @@ val missionControl = gtwNode("Mission Control", color = DeepSpaceBlue) {
 GraphTreeView(
     root = missionControl,
     config = GraphConfig(
-        lineStyle = LineStyle.Bezier, // Organic flow
-        physics = ZeroGravity       // Weightless feel
+        lineStyle = LineStyle.Bezier // Organic flow
     )
 ) { node, color, _ ->
     // 3. Render Your UI Component
