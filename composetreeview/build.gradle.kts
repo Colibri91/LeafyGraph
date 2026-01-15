@@ -62,7 +62,6 @@ afterEvaluate {
                 from(components["release"])
                 groupId = "com.github.Colibri91" // JitPack will override this based on repo owner
                 artifactId = "leafy-graph"
-                version = "1.0.0"
             }
         }
     }

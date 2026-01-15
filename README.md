@@ -56,7 +56,7 @@ Add the SDK to your module's `build.gradle.kts`:
 
 ```kotlin
 dependencies {
-    implementation("com.github.Colibri91:LeafyGraph:1.0.0") // Replace '1.0.0' with the latest version
+    implementation("com.github.Colibri91.LeafyGraph:leafy-graph:1.0.2") // Replace '1.0.2' with the latest version
 }
 ```
 
