@@ -12,6 +12,8 @@
 
 </div>
 
+![Leafy SDK Screenshot](docs/assets/leafy_screenshot.png)
+
 ---
 
 ## 🌌 The Antigravity Pitch
